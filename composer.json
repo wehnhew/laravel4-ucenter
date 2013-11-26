@@ -1,0 +1,27 @@
+{
+    "name": "wehnhew/laravel4-ucenter",
+    "description": "Larave4 ucenter sso",
+    "keywords": ["laravel4", "ucenter", "sso"],
+    "homepage": "https://github.com/wehnhew/laravel4-ucenter",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wehnhew",
+            "email": "chenhanwen@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": 4.*.*"
+    },
+    "autoload": {
+        "classmap": [
+
+        ],
+        "psr-0": {
+            "Wehnhew\\Ucenter\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
