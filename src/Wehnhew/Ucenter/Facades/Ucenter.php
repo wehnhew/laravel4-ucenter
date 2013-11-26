@@ -1,4 +1,4 @@
-<?php namespace Wehnhew\Payments\Facades;
+<?php namespace Wehnhew\Ucenter\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
