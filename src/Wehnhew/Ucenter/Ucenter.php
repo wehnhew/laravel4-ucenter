@@ -16,8 +16,8 @@
 		define('UC_IP', $config['ip']);	
 		define('UC_APPID',$config['appid']);
 		define('UC_PPP', $config['ppp']);
+		include __DIR__.'/uc_client/client.php';
 	}
-	include __DIR__.'/uc_client/client.php';
 	
 	class Ucenter{
 
