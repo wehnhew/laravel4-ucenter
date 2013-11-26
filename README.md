@@ -2,6 +2,8 @@
 
 Laravel 4 ucenter.
 
+[![Latest Stable Version](https://poser.pugx.org/wehnhew/laravel4-ucenter/v/stable.png)](https://packagist.org/packages/wehnhew/laravel4-ucenter) [![Total Downloads](https://poser.pugx.org/wehnhew/laravel4-ucenter/downloads.png)](https://packagist.org/packages/wehnhew/laravel4-ucenter)
+
 ### 安装
 
 - [laravel4-ucenter on Packagist](https://packagist.org/packages/wehnhew/laravel4-ucenter)
