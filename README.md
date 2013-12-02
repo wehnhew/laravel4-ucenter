@@ -2,11 +2,11 @@
 
 Laravel 4 ucenter.
 
-[![Latest Stable Version](https://poser.pugx.org/wehnhew/laravel4-ucenter/v/stable.png)](https://packagist.org/packages/wehnhew/laravel4-ucenter) [![Total Downloads](https://poser.pugx.org/wehnhew/laravel4-ucenter/downloads.png)](https://packagist.org/packages/wehnhew/laravel4-ucenter)
+[![Latest Stable Version](https://poser.pugx.org/wehnhew/ucenter/v/stable.png)](https://packagist.org/packages/wehnhew/ucenter) [![Total Downloads](https://poser.pugx.org/wehnhew/ucenter/downloads.png)](https://packagist.org/packages/wehnhew/ucenter)
 
 ### 安装
 
-- [laravel4-ucenter on Packagist](https://packagist.org/packages/wehnhew/laravel4-ucenter)
+- [laravel4-ucenter on Packagist](https://packagist.org/packages/wehnhew/ucenter)
 - [laravel4-ucenter on GitHub](https://github.com/wehnhew/laravel4-ucenter)
 
 只要在你的 `composer.json` 文件require中加入下面内容，就能获得最新版.
@@ -38,9 +38,9 @@ Laravel 4 ucenter.
 ~~~
 
 ## 配置
-运行以下命令将配置复制到 `app\config\packages\wehnhew\laravel4-ucenter` 方便修改配置
+运行以下命令将配置复制到 `app\config\packages\wehnhew\ucenter` 方便修改配置
 ~~~
-php artisan config:publish wehnhew/laravel4-ucenter
+php artisan config:publish wehnhew/ucenter
 ~~~
 ucenter配置项
 ~~~
