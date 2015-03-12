@@ -12,7 +12,7 @@ Laravel 4 ucenter.
 只要在你的 `composer.json` 文件require中加入下面内容，就能获得最新版.
 
 ~~~
-"wehnhew/laravel4-ucenter": "dev-master"
+"wehnhew/ucenter": "dev-master"
 ~~~
 
 然后需要运行 "composer update" 来更新你的项目
